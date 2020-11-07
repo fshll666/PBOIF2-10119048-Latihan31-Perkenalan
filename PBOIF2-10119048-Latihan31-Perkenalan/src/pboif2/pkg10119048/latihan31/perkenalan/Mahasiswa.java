@@ -22,6 +22,8 @@ public class Mahasiswa {
         System.out.println("My NIM is " + nim);
         System.out.println("My Name is " + nama);
         System.out.println();
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
     
 }
